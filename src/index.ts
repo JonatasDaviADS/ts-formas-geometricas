@@ -6,7 +6,7 @@ import { Circulo } from "./Circulo";
 
 const formas: Forma[] = [
     new Quadrado(4),
-    new Retangulo(5, 3,),
+    new Retangulo(5, 3),
     new Triangulo(6, 4),
     new Circulo(2),
 ];
